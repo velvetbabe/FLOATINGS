@@ -1,0 +1,45 @@
+.father{
+
+    
+    height: 114px;
+    width: 700px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 100px 100px 100px 100px;
+    float: left;
+      }
+
+
+
+.hijo1 {
+	   background-color:yellow;
+	   margin: 0px;
+       padding: 40px;
+       height: 30px;
+       width: 90px;
+       border: 2px solid yellow;
+       float: left;
+       display: block;
+      }
+
+.hijo2{
+	   background-color:#4BA7FD;
+	   margin: 0px;
+       padding: 40px;
+       height: 30px;
+       width: 90px;
+       border: 2px solid #4BA7FD;
+       float: left;
+       display: block;
+      }
+
+.hijo3{
+	   background-color:#F04595;
+	   margin: 0px;
+       padding: 40px;
+       height: 30px;
+       width: 90px;
+       border: 2px solid #F04595;
+       float: left;
+       display: block;
+     }
